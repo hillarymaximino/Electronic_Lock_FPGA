@@ -1,3 +1,3 @@
 typedef struct packed { 
-logic [19:0] [3:0] digits; 
+logic [11:0] [3:0] digits; 
 } senhaPac_t; 
